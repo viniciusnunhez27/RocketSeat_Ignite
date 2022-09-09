@@ -1,5 +1,4 @@
-
-import { Summary } from "../Summary/Summary";
+import { Summary } from "../Summary";
 import { TransactionsTable } from "../TransactionsTable";
 import { Container } from "./styles";
 
