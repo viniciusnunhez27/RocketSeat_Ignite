@@ -1,14 +1,16 @@
-import React, { useContext } from "react";
+
 import { Container } from "./sytles";
 import inconmeImg from  "../../assets/income.svg"
 import outcomeImg from  "../../assets/outcome.svg"
 import totalImg from  "../../assets/total.svg"
 import { TransactionsContext } from "../../TransactionsContext";
+import { useContext } from "react";
 
 
 
 export function Summary () {
-   const {transactions} = useContext(TransactionsContext);
+   const { transactions } = useContext(TransactionsContext);
+
 
    return (
     <Container>
@@ -35,10 +37,6 @@ export function Summary () {
             </header>
             <strong>R$500</strong>
         </div>
-
-
-     
-
     </Container>
    )
 } 
