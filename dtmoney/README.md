@@ -54,6 +54,7 @@ yarn start
 
 * React
 * Mirage JS
+* Axios
 * Syled Components
 * Typescript
 
