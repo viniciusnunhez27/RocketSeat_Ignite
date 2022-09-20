@@ -5,6 +5,13 @@ Projeto desenvolvido dentro do treinamento  Ignite da rocketseat.
 
 
 
+https://user-images.githubusercontent.com/66691283/191366466-874db3ae-b88c-4c69-b238-bd66114be9ae.mov
+
+
+
+
+
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -36,6 +43,8 @@ https://github.com/viniciusnunhez27/Rocketseat_Ignite.git
 Após baixar o projeto executar. 
 
 ```
+yarn 
+
 yarn start
 ````
 
