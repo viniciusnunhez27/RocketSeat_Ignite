@@ -45,7 +45,7 @@ Após baixar o projeto executar.
 ```
 yarn 
 
-cd dtymoney
+cd dtmoney
 
 yarn start
 ````
