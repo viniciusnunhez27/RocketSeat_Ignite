@@ -1,64 +1,46 @@
-# DtMoney
+# Getting Started with Create React App
 
-Projeto desenvolvido dentro do treinamento  Ignite da rocketseat.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
+In the project directory, you can run:
 
+### `yarn start`
 
-https://user-images.githubusercontent.com/66691283/191366466-874db3ae-b88c-4c69-b238-bd66114be9ae.mov
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `yarn test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `yarn build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🚀 Começando
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Consulte **Implantação** para saber como implantar o projeto.
+### `yarn eject`
 
-### 📋 Pré-requisitos
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-* Computador com acesso a internet.
-* Node instalado na máquina, no projeto foi utilizado o <b>Node v16.15.0</b>.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```
-node -v ( para verificar a versão do node na sua máquina).
-```
-Caso não tenha instalado , utilizar o comando abaixo.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Link para download.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-https://nodejs.org/en/
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### 🔧 Instalação
-
-Para rodar em sua máquina local é necessário clonar o projeto do repositório abaixo. 
-
-```
-https://github.com/viniciusnunhez27/Rocketseat_Ignite.git
-```
-Após baixar o projeto executar. 
-
-```
-yarn 
-
-cd dtmoney
-
-yarn start
-````
-
-
-
-## 🛠️ Tecnologias utilizadas no projeto.
-
-* React
-* Mirage JS
-* Axios
-* Syled Components
-* Typescript
-
-
-
+To learn React, check out the [React documentation](https://reactjs.org/).
