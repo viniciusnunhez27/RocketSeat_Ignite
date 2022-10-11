@@ -52,7 +52,7 @@ yarn start
 
 
 
-## 🛠️ Construído com
+## 🛠️ Tecnologias utilizadas no projeto.
 
 * React
 * Mirage JS
